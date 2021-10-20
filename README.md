@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @wesley-ireland
-- 👀 I’m interested in full stack tech that powers web apps
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on any interesting projects!
+- 👀 I’m currently focused on microservices, clean architecture, with a sprinkle of Next.js frontend.
 - 📫 How to reach me: HMU on LinkedIn
 
 <!---
