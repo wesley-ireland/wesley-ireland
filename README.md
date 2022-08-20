@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wesley-ireland
-- 👀 I’m currently focused on microservices, clean architecture, with a sprinkle of Next.js frontend.
+- 👀 I’m currently focused on ☕️ Java microservices, 👨‍💻 Next.js web apps, and 🦀 Rust CLIs.
 - 📫 How to reach me: HMU on LinkedIn
 
 <!---
